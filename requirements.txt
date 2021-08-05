@@ -2,4 +2,11 @@ pandas
 numpy
 plotly
 tensorflow
+matplotlib
+seaborn
+xgboost
+sklearn
+imblearn
+collections
+
 
